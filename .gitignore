@@ -1,3 +1,5 @@
 password.txt
 .vscode
 __pycache__
+venv
+bike_mgmt
